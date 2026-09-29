@@ -1,11 +1,12 @@
 # 🏭 Digital Twin for Condition Monitoring & Predictive Maintenance of Industrial Machines
 
+[![Live Demo](https://img.shields.io/badge/Streamlit%20Cloud-Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://digital-twin-for-predictive-maintenance-using-ai-and-simulatio.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.25%2B-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.2%2B-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Architecture](https://img.shields.io/badge/Architecture-Digital%20Twin%20%7C%20IoT-success)](#system-architecture)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+> 🌐 **Live Interactive App:** [https://digital-twin-for-predictive-maintenance-using-ai-and-simulatio.streamlit.app/](https://digital-twin-for-predictive-maintenance-using-ai-and-simulatio.streamlit.app/)
 
 An end-to-end **Industrial Digital Twin and Predictive Maintenance (PdM)** platform combining IoT telemetry simulation, statistical signal processing, and hybrid machine learning architectures (**Random Forest, LSTM, and Deep Autoencoders**). 
 
@@ -25,6 +26,7 @@ The system creates a cyber-physical software replica of high-value industrial ma
 
 ## 📑 Table of Contents
 
+- [Live Demo Link](#-live-demo-link)
 - [Project Overview](#-project-overview)
 - [System Architecture](#-system-architecture)
 - [Key Features](#-key-features)
@@ -36,7 +38,6 @@ The system creates a cyber-physical software replica of high-value industrial ma
 - [Repository Structure](#-repository-structure)
 - [Business Impact & Industrial ROI](#-business-impact--industrial-roi)
 - [Future Roadmap](#-future-roadmap)
-- [License](#-license)
 
 ---
 
@@ -329,9 +330,10 @@ Implementing this Digital Twin architecture delivers quantifiable improvements a
 
 ---
 
-## 📄 License
+## 🌐 Live Demo Application
 
-This project is licensed under the **MIT License** — feel free to use, modify, and distribute it for research, academic, or commercial predictive maintenance applications.
+Experience the digital twin directly in your browser:
+👉 **[Launch Streamlit Live Web App](https://digital-twin-for-predictive-maintenance-using-ai-and-simulatio.streamlit.app/)**
 
 ---
 
